@@ -1,0 +1,109 @@
+{
+  "venues": [
+    {
+      "name": "Alicante",
+      "type": "city",
+      "photo": "https://example.com/alicante.jpg",
+      "secretsCount": 25,
+      "activePlayers": 1200
+    },
+    {
+      "name": "MARQ - Museo Arqueológico de Alicante",
+      "type": "museum",
+      "photo": "https://example.com/marq.jpg",
+      "secretsCount": 15,
+      "activePlayers": 300
+    },
+    {
+      "name": "Las Hogueras de Alicante",
+      "type": "festival",
+      "photo": "https://example.com/hogueras.jpg",
+      "secretsCount": 10,
+      "activePlayers": 500
+    },
+    {
+      "name": "Paris",
+      "type": "city",
+      "photo": "https://example.com/paris.jpg",
+      "secretsCount": 50,
+      "activePlayers": 5000
+    },
+    {
+      "name": "Barcelona",
+      "type": "city",
+      "photo": "https://example.com/barcelona.jpg",
+      "secretsCount": 30,
+      "activePlayers": 2500
+    },
+    {
+      "name": "Louvre Museum",
+      "type": "museum",
+      "photo": "https://example.com/louvre.jpg",
+      "secretsCount": 40,
+      "activePlayers": 3000
+    },
+    {
+      "name": "Rome",
+      "type": "city",
+      "photo": "https://example.com/rome.jpg",
+      "secretsCount": 35,
+      "activePlayers": 2800
+    },
+    {
+      "name": "Vatican Museums",
+      "type": "museum",
+      "photo": "https://example.com/vatican-museums.jpg",
+      "secretsCount": 20,
+      "activePlayers": 1500
+    },
+    {
+      "name": "London",
+      "type": "city",
+      "photo": "https://example.com/london.jpg",
+      "secretsCount": 45,
+      "activePlayers": 4500
+    },
+    {
+      "name": "British Museum",
+      "type": "museum",
+      "photo": "https://example.com/british-museum.jpg",
+      "secretsCount": 30,
+      "activePlayers": 2000
+    },
+    {
+      "name": "Amsterdam",
+      "type": "city",
+      "photo": "https://example.com/amsterdam.jpg",
+      "secretsCount": 20,
+      "activePlayers": 1800
+    },
+    {
+      "name": "Rijksmuseum",
+      "type": "museum",
+      "photo": "https://example.com/rijksmuseum.jpg",
+      "secretsCount": 25,
+      "activePlayers": 1200
+    },
+    {
+      "name": "Prague",
+      "type": "city",
+      "photo": "https://example.com/prague.jpg",
+      "secretsCount": 18,
+      "activePlayers": 1500
+    },
+    {
+      "name": "Venice",
+      "type": "city",
+      "photo": "https://example.com/venice.jpg",
+      "secretsCount": 22,
+      "activePlayers": 1300
+    },
+    {
+      "name": "Guggenheim Museum Bilbao",
+      "type": "museum",
+      "photo": "https://example.com/guggenheim-bilbao.jpg",
+      "secretsCount": 12,
+      "activePlayers": 800
+    }
+  ]
+}
