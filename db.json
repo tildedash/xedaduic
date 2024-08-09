@@ -6,7 +6,8 @@
       "photo": "https://plus.unsplash.com/premium_photo-1697729447724-e7ba3a96186a?w=800&auto=format&fit=crop",
       "photoVertical": "https://images.unsplash.com/photo-1636319039199-4b81fe4d9552?w=800&auto=format&fit=crop",
       "secretsCount": 25,
-      "activePlayers": 1200
+      "activePlayers": 1200,
+      "isPopular": true
     },
     {
       "name": "MARQ - Museo Arqueológico de Alicante",
@@ -14,7 +15,8 @@
       "photo": "https://plus.unsplash.com/premium_photo-1697729447724-e7ba3a96186a?w=800&auto=format&fit=crop",
       "photoVertical": "https://images.unsplash.com/photo-1636319039199-4b81fe4d9552?w=800&auto=format&fit=crop",
       "secretsCount": 15,
-      "activePlayers": 300
+      "activePlayers": 300,
+      "isPopular": false
     },
     {
       "name": "Las Hogueras de Alicante",
@@ -22,7 +24,8 @@
       "photo": "https://images.unsplash.com/photo-1710961704911-13c78425e922?w=800&auto=format&fit=crop",
       "photoVertical": "https://images.unsplash.com/photo-1647693629037-0f153313aeb1?w=800&auto=format&fit=crop",
       "secretsCount": 10,
-      "activePlayers": 500
+      "activePlayers": 500,
+      "isPopular": true
     },
     {
       "name": "Paris",
@@ -30,7 +33,8 @@
       "photo": "https://plus.unsplash.com/premium_photo-1661919210043-fd847a58522d?w=800&auto=format&fit=crop",
       "photoVertical": "https://images.unsplash.com/photo-1522093007474-d86e9bf7ba6f?w=800&auto=format&fit=crop",
       "secretsCount": 50,
-      "activePlayers": 5000
+      "activePlayers": 5000,
+      "isPopular": true
     },
     {
       "name": "Barcelona",
@@ -38,7 +42,8 @@
       "photo": "https://images.unsplash.com/photo-1464790719320-516ecd75af6c?w=800&auto=format&fit=crop",
       "photoVertical": "https://images.unsplash.com/photo-1579282240050-352db0a14c21??w=800&auto=format&fit=crop",
       "secretsCount": 30,
-      "activePlayers": 2500
+      "activePlayers": 2500,
+      "isPopular": false
     },
     {
       "name": "Louvre Museum",
@@ -46,7 +51,8 @@
       "photo": "https://images.unsplash.com/photo-1546940072-0dc23916c4f2?w=800&auto=format&fit=crop",
       "photoVertical": "https://images.unsplash.com/photo-1535399475061-ad1dca038c26?w=800&auto=format&fit=crop",
       "secretsCount": 40,
-      "activePlayers": 3000
+      "activePlayers": 3000,
+      "isPopular": true
     },
     {
       "name": "Rome",
@@ -54,7 +60,8 @@
       "photo": "https://plus.unsplash.com/premium_photo-1675975635390-6ca4d5c056b2?w=800&auto=format&fit=crop",
       "photoVertical": "https://images.unsplash.com/photo-1718050613392-4da4d5c24867?w=800&auto=format&fit=crop",
       "secretsCount": 35,
-      "activePlayers": 2800
+      "activePlayers": 2800,
+      "isPopular": false
     },
     {
       "name": "Vatican Museums",
@@ -62,7 +69,8 @@
       "photo": "https://plus.unsplash.com/premium_photo-1661964123160-8d049fa07f0c?w=800&auto=format&fit=crop",
       "photoVertical": "https://images.unsplash.com/photo-1694254058667-dbe82ce1ac7b?w=800&auto=format&fit=crop",
       "secretsCount": 20,
-      "activePlayers": 1500
+      "activePlayers": 1500,
+      "isPopular": false
     },
     {
       "name": "London",
@@ -70,7 +78,8 @@
       "photo": "https://plus.unsplash.com/premium_photo-1682056762907-23d08f913805?w=800&auto=format&fit=crop",
       "photoVertical": "https://images.unsplash.com/photo-1529655683826-aba9b3e77383?w=800&auto=format&fit=crop",
       "secretsCount": 45,
-      "activePlayers": 4500
+      "activePlayers": 4500,
+      "isPopular": false
     },
     {
       "name": "British Museum",
@@ -78,7 +87,8 @@
       "photo": "https://plus.unsplash.com/premium_photo-1694475251117-25670174eb58?w=800&auto=format&fit=crop",
       "photoVertical": "https://plus.unsplash.com/premium_photo-1694475282880-4d02465afa55?w=800&auto=format&fit=crop",
       "secretsCount": 30,
-      "activePlayers": 2000
+      "activePlayers": 2000,
+      "isPopular": false
     },
     {
       "name": "Amsterdam",
@@ -86,7 +96,8 @@
       "photo": "https://plus.unsplash.com/premium_photo-1661887237533-b38811c27add?w=800&auto=format&fit=crop",
       "photoVertical": "https://images.unsplash.com/photo-1517736996303-4eec4a66bb17?w=800&auto=format&fit=crop",
       "secretsCount": 20,
-      "activePlayers": 1800
+      "activePlayers": 1800,
+      "isPopular": false
     },
     {
       "name": "Rijksmuseum",
@@ -94,7 +105,8 @@
       "photo": "https://images.unsplash.com/photo-1654029261491-6092d8471a59?w=800&auto=format&fit=crop",
       "photoVertical": "https://images.unsplash.com/photo-1698781493055-9a537b236c17?w=800&auto=format&fit=crop",
       "secretsCount": 25,
-      "activePlayers": 1200
+      "activePlayers": 1200,
+      "isPopular": false
     },
     {
       "name": "Prague",
@@ -102,7 +114,8 @@
       "photo": "https://plus.unsplash.com/premium_photo-1661963067279-2f7bf970c49c?w=800&auto=format&fit=crop",
       "photoVertical": "https://images.unsplash.com/photo-1503410781609-75b1d892dd28?w=800&auto=format&fit=crop",
       "secretsCount": 18,
-      "activePlayers": 1500
+      "activePlayers": 1500,
+      "isPopular": false
     },
     {
       "name": "Venice",
@@ -110,7 +123,8 @@
       "photo": "https://images.unsplash.com/photo-1519112232436-9923c6ba3d26?w=800&auto=format&fit=crop",
       "photoVertical": "https://plus.unsplash.com/premium_photo-1677355911198-5d56b4df49f3?w=800&auto=format&fit=crop",
       "secretsCount": 22,
-      "activePlayers": 1300
+      "activePlayers": 1300,
+      "isPopular": true
     },
     {
       "name": "Guggenheim Museum Bilbao",
@@ -118,7 +132,8 @@
       "photo": "https://images.unsplash.com/photo-1619168145232-2427360abbd3?w=800&auto=format&fit=crop",
       "photoVertical": "https://images.unsplash.com/photo-1706470422155-69809338a2d2?w=800&auto=format&fit=crop",
       "secretsCount": 12,
-      "activePlayers": 800
+      "activePlayers": 800,
+      "isPopular": false
     }
   ]
 }
